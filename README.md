@@ -53,3 +53,6 @@ Builder Settings,
 Stub output ( Virustotal )
 https://www.virustotal.com/gui/file/e56ca8c898e46624f1689392efe7520b53b57987bb1bc7e6fb751411b5d7b362/detection
 ![Capture](https://github.com/user-attachments/assets/a7125c56-ad00-4e22-a7bc-48b99572edb8)
+
+Also a youtube video showcasing the stealer!
+https://www.youtube.com/watch?v=jjJoLMWwCMw
