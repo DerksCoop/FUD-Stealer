@@ -1,0 +1,228 @@
+# End of support
+
+Hi everyone, this project is finished. I want to go back in the right path, that's why, Trap and even my whole account will never be updated anymore, yes it is very sudden but I want to do the best for users all over the world, no support will be given for any error, you'll be free to skid it and modify it as you wish, if anyone come and say that's he is me, that's fake ;)
+
+because of the Article from SANS, I will update the obfuscator for a much smaller output :)
+
+# You can do any pull requests, i'll check them and approve or disapprove then
+
+# Uncoverit.org does not seem to work because of the update, so please uncoverit team, update :3 have a nice day
+<p align="center">
+  TrapStealer is a Windows stealer for Discord and much more. Steal Time: ~4-9 seconds. 0 Detection on VirusTotal (Injection too) 159 STARS THANKS Wouldn't have believe this would go so far
+</p>
+
+Account Disabled so no more discord
+  
+## 🌐 〢 Summary   
+  
+- [✨・Features](#features) 
+- [📝・Changelog](#changelog)     
+- [💼・Terms](#terms)     
+      
+<details>     
+  <summary>Cybersecurity Society start talking about us</summary>     
+  
+  - [Cyble](https://cyble.com/blog/new-open-source-trap-stealer-pilfers-data-in-just-6-seconds/)
+  - [Cyclonis](https://www.cyclonis.com/remove-trap-stealer-malware/)   
+  - [Ciberprisma](https://ciberprisma.org/2023/11/12/trap-stealer-nuevo-infostealer-distribuido-abiertamente-en-github/)   
+  - [Pcrisk](https://www.pcrisk.com/removal-guides/28239-trapstealer-malware)  
+  - [Enigmasoftware](https://www.enigmasoftware.com/trapstealermalware-removal/)
+  - [Gob](https://cdn.www.gob.pe/uploads/document/file/5382656/4816779-alerta-integrada-de-seguridad-digital-n-265-2023-cnsd.pdf)
+  - [I-secure](https://www.i-secure.co.th/2023/11/%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%9E%E0%B8%99%E0%B8%8B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-trap-stealer-%E0%B8%AA%E0%B8%B2%E0%B8%A1/)
+  - [Alienvault](https://otx.alienvault.com/pulse/655ca9a5f73b97511566171a)
+  - [Gridinsoft](https://gridinsoft.com/blogs/trojanwin32-wacatac/) 
+  - [Falconfeeds](https://twitter.com/FalconFeedsio/status/1744967673950462153)
+  - [Instant-Hack](https://instant-hack.to/threads/hacking-news-stealer-de-donn%C3%A9es-open-source-en-python-%C2%AB-trap-stealer-%C2%BB.257059/)
+  - [SANS](https://isc.sans.edu/diary/From+a+Regular+Infostealer+to+its+Obfuscated+Version/31484)
+</details>
+ 
+## <a id="features"></a>✨・Features
+```
+📁 - 4 Supported Files Upload Websites (Catbox.moe, gofile.io, anonymfile.com, file.io)
+
+🗂️ - Logs (Everything in 1 zip file)
+
+💳 - IBAN Stealer (Trap Extension)
+
+🧊 - Minecraft sessions stealer (Lunar, Minecraft)
+
+🎮 - Steal all stored ArchiSteamFarm Steam Credentials
+
+🔒 - Bypass Better Discord and Discord Token Protector
+
+⏲️ - Schedule Task (Execute the payload everyday)
+
+🖼️ - Custom icon (Put custom icon (.ico format)) 
+
+🤖 - Website Cookie Information (Spotify, Roblox, Tiktok, Guilded, Patreon, Twitch)
+ 
+🤔 - Whatsapp Stealer: Steal all whatsapp file on the infected computer
+
+🖥️ - Computer Information Stealer: Steal graphic card name (and other data), cpu name (and other data), Installed AVs and more.. 
+
+🍪 - Cookie Stealer: Steals cookies of any browser
+
+💾 - USB Drivers Files Stealer : Automaticly steal all files in any connected drives
+
+🤖 - Package Installer: Automatically install necessary packages
+
+📁 - ZIP Stealer: Compresses various application files
+
+🎭 - Fake Disguise: Can disguise in a fake Discord Nitro generator or a webhook tool (Ask for new idea if you want)
+
+❌ - Discord Disabler: This one is straight-forward
+
+🌕 - Password Stealer: Steals passwords saved on popular browsers (Chrome, Opera/GX, Edge, Safari, Internet Explorer, Brave)
+
+📝 - Autofill Stealer: Steal autofill of all browsers
+
+📋 - Clipboard Copy: Copies whatever is in the target's clipboard
+
+🎮 - Steam Session Stealer: Steals the target's Steam session
+
+👁️ - Anti Debugging: Makes it difficult to detect running processes
+
+💻 - Startup Running: Starts up whenever the target's machine does
+
+👥 - Private Information Stealer: Grabs Discord token, password, phone number, email, username and global username and HQ friends, HQ Guilds, user connexion and change user about me
+
+📥 - Discord Injection: Self-injects into Discord
+
+📂 - Sensitive Stealer: Finds and steals sensitive files based of customizable keywords
+
+📸 - Screenshot: Takes a screenshot of the target's screen
+
+🔥 - Melter: Delete itself after stealing
+
+💻 - Windows Crasher: Make windows do a BSOD (Blue Screen of Death)
+
+🪐 - Browser History Stealer: Steals history search of multiple browsers (Chrome, Opera/GX, Firefox, Edge, Safari, Internet Explorer, Brave)
+
+🪟 - Hide windows: Make the command prompt disappear.
+```
+
+## <a id="Changelog"></a>📝・Changelog
+```
+- V4.9.5.1 fixed
+- V4.9.5 New obfuscator, just because an article decided to talk about me, saying "the file is a lot bigger" so here you go 0 detections, smaller output and still boring to deob, each time someone will talk or make a deobfuscator i'll be here
+- V4.9.4 Added Builder for unix system
+- V4.9.3 Added logs andd fixed error handler not printing out error
+- V4.9.2 Minecraft session stealer
+- V4.9.1 New LNK (Shortcut) 0 detection !
+- V4.9 A lot of stuff, trap extension (Iban Stealer) Bug fixed and more!
+- V4.8.8 Added Debugging System
+- V4.8.7 Added ArchiSteamFarm Stealer
+- V4.8.6 Added browser taskkill support 
+- V4.8.5 Added USB Drivers File Stealer (Still 0/59)
+- V4.8.4 0 Python (Without obfuscation) ! 0/60 detections
+- V4.8.3.5 Really fixed files uploads
+- V4.8.3 Fixed supported files uploads
+- V4.8.2 Added 4 Supported Files Upload Website (Catbox.moe, gofile.io, anonymfile.com, file.io)
+- V4.8.1 Added computer language support
+- V4.8 5/69 Exe detection update !
+- 4.7.2 Fixed other error related to password and cookies
+- 4.7 Fixed an cookie stealer problem
+- V4.6.9 (Funny Number, And somes fix that I didn't talked about)
+- V4.6.8 Get a lot information about the computer (using WMIC)
+- V4.6.7 Detect VMBox and VMWare
+- V4.6.6 Added Cookie Twitch Support !
+- V4.6.5 Added Better Discord and Token Protector Bypass
+- V4.6.2 Fixed Crypto error
+- V4.6 Better Looking Obfuscation and added Custom Icon
+- V4.5.5 More Cookie Information website (+3) and fixed on obfuscator error
+- V4.5 Added tiktok session stealer
+- V4.4.8 Better obfuscator
+- V4.4.7 Fixed some stuff
+- V4.4.6 Make it 2x faster
+- V4.4.5 Account about me changer added
+- V4.4.1 Make it faster
+- V4.4 Roblox Support ! (more coming)
+- V4.3 Got backed at 0 detections !
+- V4.2.5 Smol fix
+- V4.2 Upgraded AntiVM (Banned Computer Username)
+- V4.1.7.5 Make it back 0 detection on VirusTotal
+- V4.1.5 Make the readme easier to read, fixed ip protection (antivm)
+- V4.1 Added Hide windows
+- V4.0.5 Fixed Startup Not Working
+- V4 New Obfuscation, Fixed Obfuscation, Encoded Webhook, Fixed Injection, Computer Crasher, Automelter and even more.... (Auto Melter, Whatsapp Stealer, new 0 detections injection and even more...)
+```
+
+<details>
+  <summary>Version 3</summary>
+  
+```plaintext
+- V3.9.6 Fixed injection that never worked actually now it is
+- V3.9.5 Added obfuscation, changed the cookie format, fixed some bugs, SEARCHING NEW IDEAS FOR V4
+- V3.9 Fixed some error, added autofill stealer and some other stuff
+- V3.8.5 Added Guild stealer and some fixes
+- V3.8.1 Removed and added some stuff
+- V3.8 Antivirus stealer (get all installed AVs) Builder with exe and new obfuscator.py and added Brave to the history stealer
+- V3.7.5 Added antivirus stealer 
+- V3.7.3.1 Removed useless print
+- V3.7.3 Fixed Screenshot
+- V3.7 Make it steal in under 2 seconds
+- V3.6.6 Fixed Cookie Stealer
+- V3.6.5 Added a new obfuscator (Not "Skidded") Bad but well no deobfuscator yet ^^, i will make it stronger if needed
+- V3.6 Fixed GPU, Fixed some bug removed useless import
+- V3.5.6 Fixed history stealer (Added some except) and removed an useless import
+- V3.5.5 Steal Global Username from discord and bio
+- V3.5.1 Fixed GPU stealing 
+- V3.5 Make it 0 detection back, fixed cookie counting and fixed injection and disabling discord adding it to threads
+- V3.4 Added Browser History Stealer
+- V3.3 Fixed obfuscator + builder
+- V3.2.5 Removed unworking camera stealer
+- V3.2 Fixed Password + Cookie stealer, fixed obfuscation
+- V3.1 Fixed wrong input in Builder, and fixed stealer thread so it takes everything
+- V3.0.1 Added some file stealer keyword and path
+- V3 Go back at 0 detection and added cookies stealer
+  ```
+
+</details>
+
+
+<details>
+  <summary>Version 2</summary>
+
+```plaintext
+- V2.9 Remove most of the detected keyword by Polonium
+- V2.8 Remove some detection by Polonium and fixed package installer
+- V2.7 Added Zip Stealer
+- V2.6 Added the builder + obfuscator to get FUD (You don't need it but you can use it)
+- V2.5.6 Removed some detection by Polonium
+- V2.5.5 Added Screenshot back because not buggy anymore 
+- V2.5 Removed Screenshot because buggy, fixed file stealer
+- v2.4 Even Faster and it will steal everything while Webhook or Fake Generator tools is running 
+- v2.3 Make it 2x faster
+- V2.2 Make it even more faster (0.5 too)
+- V2.1 Make it a little bit faster (by 0.5s)
+- V2 Just make it a little smaller
+
+```
+
+</details>
+
+<details>
+  <summary>Version 1</summary>
+  
+```plaintext
+- V1.9.5 0 Virustotal Detection without any obfuscator (already in 1.9) update
+- V1.9. Fixed password stealer
+- V1.8. Now only 1 AV detects it on VirusTotal (Before it was 10)
+- V1.7. Make Discord not work anymore
+- V1.6. Added Camera Stealer + Make injection toggleable
+- V1.5. Better file stealer.
+- V1.4. Chrome Password and more Stealer.
+- V1.3. Clipboard Stealer.
+- V1.2. Added Anti Debug.
+- V1.1. Fixed Startup glitch and made it a little bit better.
+- V1. Added Startup, Grabs, Injection, Fake Error, Screenshot.
+```
+
+</details>
+
+## <a id="terms"></a>💼・Terms
+This script is for educational purposes only. Use it at your own risk. The developer is not responsible for any damage caused by the misuse of this script.
+
+[![Star History Chart](https://api.star-history.com/svg?repos=TheCuteOwl/Trap-Stealer&type=Date)](https://star-history.com/#TheCuteOwl/Trap-Stealer&Date)
+<p align="center">
+  Proper credits are given. Some W4SP Stealer code was used along with custom code. ❤ </p>
